@@ -2,6 +2,8 @@
 
 A template repository to work with P4 programs on Netronome SmartNICs. Mostly a wrapper around `nfp4build` with sensible defaults for `Agilio CX 2x10GbE` SmartNICs. 
 
+For more details on working with P4 for Netronome SmartNICs, check [this guide](https://github.com/RuiCunhaM/netronome-p4-documentation).
+
 ## Usage
 
 **This assumes you have the SDK Hosted Toolchain installed locally**
